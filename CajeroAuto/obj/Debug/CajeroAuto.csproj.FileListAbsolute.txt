@@ -1,0 +1,10 @@
+c:\users\danam\onedrive\documents\visual studio 2017\Projects\CajeroAuto\CajeroAuto\bin\Debug\CajeroAuto.exe.config
+c:\users\danam\onedrive\documents\visual studio 2017\Projects\CajeroAuto\CajeroAuto\bin\Debug\CajeroAuto.exe
+c:\users\danam\onedrive\documents\visual studio 2017\Projects\CajeroAuto\CajeroAuto\bin\Debug\CajeroAuto.pdb
+c:\users\danam\onedrive\documents\visual studio 2017\Projects\CajeroAuto\CajeroAuto\obj\Debug\CajeroAuto.csprojResolveAssemblyReference.cache
+c:\users\danam\onedrive\documents\visual studio 2017\Projects\CajeroAuto\CajeroAuto\obj\Debug\CajeroAuto.cajero.resources
+c:\users\danam\onedrive\documents\visual studio 2017\Projects\CajeroAuto\CajeroAuto\obj\Debug\CajeroAuto.Properties.Resources.resources
+c:\users\danam\onedrive\documents\visual studio 2017\Projects\CajeroAuto\CajeroAuto\obj\Debug\CajeroAuto.csproj.GenerateResource.Cache
+c:\users\danam\onedrive\documents\visual studio 2017\Projects\CajeroAuto\CajeroAuto\obj\Debug\CajeroAuto.exe
+c:\users\danam\onedrive\documents\visual studio 2017\Projects\CajeroAuto\CajeroAuto\obj\Debug\CajeroAuto.pdb
+c:\users\danam\onedrive\documents\visual studio 2017\Projects\CajeroAuto\CajeroAuto\obj\Debug\CajeroAuto.Cliente.resources
